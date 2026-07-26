@@ -1,0 +1,15 @@
+{
+  "name": "SDVX 결승 전략실",
+  "short_name": "결승 전략실",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef1f3",
+  "theme_color": "#17242b",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
